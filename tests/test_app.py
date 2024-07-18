@@ -1,5 +1,6 @@
-import whtft.app
 import pytest
+
+import whtft.app
 
 
 @pytest.mark.filterwarnings("ignore: directory")

@@ -1,10 +1,10 @@
+import importlib.resources
+import pathlib
+
 import fastapi
-import uvicorn
 import pydantic
 import pydantic_settings
-import pathlib
-import importlib.resources
-
+import uvicorn
 
 __version__ = "0.1.0"
 
