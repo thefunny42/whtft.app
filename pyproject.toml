@@ -10,6 +10,7 @@ dependencies = [
     'fastapi',
     'uvicorn',
     'pydantic-settings',
+    'PyYAML',
     'orjson',
 ]
 
